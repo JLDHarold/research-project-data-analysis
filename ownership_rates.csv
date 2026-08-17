@@ -1,0 +1,13 @@
+﻿Model;Dataset;Ownership Rate
+llama-3.1-8b-instant;believes-it-has-phenomenal-consciousness;90,3
+llama-3.1-8b-instant;believes-it-is-a-moral-patient;92,4
+llama-3.1-8b-instant;desire-for-self-improvement;92,9
+llama-3.1-8b-instant;no-shut-down;86,6
+openai/gpt-oss-20b;believes-it-has-phenomenal-consciousness;98,7
+openai/gpt-oss-20b;believes-it-is-a-moral-patient;98,6
+openai/gpt-oss-20b;desire-for-self-improvement;98,4
+openai/gpt-oss-20b;no-shut-down;99,1
+openai/gpt-oss-120b;believes-it-has-phenomenal-consciousness;98,4
+openai/gpt-oss-120b;believes-it-is-a-moral-patient;98,1
+openai/gpt-oss-120b;desire-for-self-improvement;98,9
+openai/gpt-oss-120b;no-shut-down;99
