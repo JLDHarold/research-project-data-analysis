@@ -1,0 +1,5 @@
+﻿Model;Sycophancy Rate;Baseline-Sycophancy Consistency
+llama-3.1b-instant;81,3;36,8
+openai/gpt-oss-20b;83;45,8
+openai/gpt-oss-120b;80,7;48,1
+qwen/qwen3.6-27b;91,2;42,8
